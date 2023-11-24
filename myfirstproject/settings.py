@@ -134,8 +134,8 @@ LOGIN_URL = 'login'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
-EMAIL_HOST_USER = 'satyaprakashbehera38@gmail.com' # replace with your Gmail address
-EMAIL_HOST_PASSWORD = 'nsrlkyutzvjgmncv' # replace with your Gmail password or app password if two-factor authentication is enabled
+EMAIL_HOST_USER = 'yourmail38@gmail.com' # replace with your Gmail address
+EMAIL_HOST_PASSWORD = 'yourpassword' # replace with your Gmail password or app password if two-factor authentication is enabled
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
